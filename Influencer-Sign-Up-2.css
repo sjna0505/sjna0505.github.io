@@ -5,7 +5,7 @@
 .u-section-1 .u-text-1 {
   font-family: HumanSans-Black;
   text-align: left;
-  margin: 60px auto 0;
+  margin: 137px auto 0;
 }
 
 .u-section-1 .u-text-2 {
@@ -15,31 +15,36 @@
 .u-section-1 .u-image-1 {
   width: 80px;
   height: 80px;
+  transition-duration: 0.5s;
   margin: 22px auto 0 512px;
 }
 
 .u-section-1 .u-image-2 {
   width: 79px;
   height: 79px;
+  transition-duration: 0.5s;
   margin: -79px auto 0 306px;
 }
 
 .u-section-1 .u-image-3 {
-  width: 79px;
-  height: 79px;
-  margin: -79px auto 0 409px;
+  width: 81px;
+  height: 81px;
+  transition-duration: 0.5s;
+  margin: -79px 337px 0 auto;
 }
 
 .u-section-1 .u-image-4 {
   width: 81px;
   height: 81px;
-  margin: -79px 337px 0 auto;
+  transition-duration: 0.5s;
+  margin: -81px 442px 0 auto;
 }
 
 .u-section-1 .u-image-5 {
-  width: 81px;
-  height: 81px;
-  margin: -81px 442px 0 auto;
+  width: 79px;
+  height: 79px;
+  transition-duration: 0.5s;
+  margin: -80px auto 0 409px;
 }
 
 .u-section-1 .u-btn-1 {
@@ -49,7 +54,7 @@
   font-weight: 700;
   font-family: HumanSans-Regular;
   text-transform: none;
-  margin: 31px auto 60px;
+  margin: 33px auto 60px;
 }
 
 @media (max-width: 1199px) {
@@ -74,7 +79,7 @@
   }
 
   .u-section-1 .u-image-3 {
-    margin-left: 261px;
+    margin-right: 259px;
   }
 
   .u-section-1 .u-image-4 {
@@ -82,8 +87,59 @@
   }
 
   .u-section-1 .u-image-5 {
-    margin-right: 259px;
+    margin-left: 261px;
   }
+}
+
+.u-section-1 .u-image-5 {
+  transition-property: fill, color, background-image, stroke-width, border-style, border-width, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-size, background-position !important;
+}
+
+.u-section-1 .u-image-5:hover {
+  opacity: 0.5 !important;
+  stroke-width: 0px !important;
+  border-style: solid !important;
+  border-width: 0px !important;
+}
+
+.u-section-1 .u-image-5 {
+  stroke: transparent !important;
+  border-color: transparent !important;
+  stroke-width: 0 !important;
+  border-style: solid !important;
+  border-width: 0px !important;
+}
+
+.u-section-1 .u-image-1 {
+  transition-property: fill, color, background-image, stroke-width, border-style, border-width, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-size, background-position !important;
+}
+
+.u-section-1 .u-image-1:hover {
+  opacity: 0.5 !important;
+}
+
+.u-section-1 .u-image-4 {
+  transition-property: fill, color, background-image, stroke-width, border-style, border-width, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-size, background-position !important;
+}
+
+.u-section-1 .u-image-4:hover {
+  opacity: 0.5 !important;
+}
+
+.u-section-1 .u-image-3 {
+  transition-property: fill, color, background-image, stroke-width, border-style, border-width, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-size, background-position !important;
+}
+
+.u-section-1 .u-image-3:hover {
+  opacity: 0.5 !important;
+}
+
+.u-section-1 .u-image-2 {
+  transition-property: fill, color, background-image, stroke-width, border-style, border-width, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-size, background-position !important;
+}
+
+.u-section-1 .u-image-2:hover {
+  opacity: 0.5 !important;
 }@font-face {
   font-family: 'HumanSans-Black';
   font-style: normal;
