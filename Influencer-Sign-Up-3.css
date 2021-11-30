@@ -1,0 +1,30 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 509px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: HumanSans-Black;
+  text-align: left;
+  margin: 135px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: HumanSans-Regular;
+  background-image: none;
+  margin: 51px auto 60px;
+}@font-face {
+  font-family: 'HumanSans-Black';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/HumanSans-Black.otf);
+}@font-face {
+  font-family: 'HumanSans-Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/HumanSans-Regular.otf);
+}@font-face {
+  font-family: 'HumanSans-Medium';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/HumanSans-Medium.otf);
+}

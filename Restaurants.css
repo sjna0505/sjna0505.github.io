@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'HumanSans-Medium';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/HumanSans-Medium.otf);
+}@font-face {
+  font-family: 'HumanSans-Black';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/HumanSans-Black.otf);
+}@font-face {
+  font-family: 'HumanSans-Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/HumanSans-Regular.otf);
+}

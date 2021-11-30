@@ -1,0 +1,153 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 778px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: HumanSans-Black;
+  text-align: left;
+  font-size: 2.25rem;
+  margin: 50px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 36px auto 0;
+}
+
+.u-section-1 .u-form-1 {
+  height: 473px;
+  width: 449px;
+  margin: 36px auto 60px;
+}
+
+.u-section-1 .u-form-group-1 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-1 {
+  font-family: HumanSans-Regular;
+  font-size: 1rem;
+}
+
+.u-section-1 .u-input-1 {
+  font-family: HumanSans-Regular;
+  font-size: 1rem;
+  text-transform: none;
+}
+
+.u-section-1 .u-form-group-2 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-2 {
+  font-family: HumanSans-Regular;
+  font-size: 1rem;
+}
+
+.u-section-1 .u-input-2 {
+  font-family: HumanSans-Regular;
+  font-size: 1rem;
+  text-transform: none;
+}
+
+.u-section-1 .u-form-group-3 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-3 {
+  font-family: HumanSans-Regular;
+  font-size: 1rem;
+}
+
+.u-section-1 .u-input-3 {
+  font-family: HumanSans-Regular;
+  font-size: 1rem;
+  text-transform: none;
+}
+
+.u-section-1 .u-form-group-4 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-4 {
+  font-family: HumanSans-Regular;
+  font-size: 1rem;
+}
+
+.u-section-1 .u-input-4 {
+  font-family: HumanSans-Regular;
+  font-size: 1rem;
+  text-transform: none;
+}
+
+.u-section-1 .u-form-group-5 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-5 {
+  font-family: HumanSans-Regular;
+  font-size: 1rem;
+}
+
+.u-section-1 .u-input-5 {
+  font-family: HumanSans-Regular;
+  font-size: 1rem;
+  text-transform: none;
+}
+
+.u-section-1 .u-form-group-6 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-6 {
+  font-family: HumanSans-Regular;
+  font-size: 1rem;
+}
+
+.u-section-1 .u-input-6 {
+  font-family: HumanSans-Regular;
+  font-size: 1rem;
+  text-transform: none;
+}
+
+.u-section-1 .u-btn-1 {
+  letter-spacing: 2px;
+  font-family: HumanSans-Regular;
+  border-style: solid;
+  font-weight: 700;
+  text-transform: none;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-form-group-5 {
+    margin-bottom: 0;
+  }
+
+  .u-section-1 .u-form-group-6 {
+    margin-top: 20px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 340px;
+  }
+}@font-face {
+  font-family: 'HumanSans-Black';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/HumanSans-Black.otf);
+}@font-face {
+  font-family: 'HumanSans-Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/HumanSans-Regular.otf);
+}@font-face {
+  font-family: 'HumanSans-Medium';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/HumanSans-Medium.otf);
+}
