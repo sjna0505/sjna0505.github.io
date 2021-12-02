@@ -1,0 +1,53 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: HumanSans-Black;
+  text-align: left;
+  margin: 148px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 400;
+  font-size: 1rem;
+  width: 618px;
+  margin: 26px auto 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: solid;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  font-weight: 700;
+  font-family: HumanSans-Medium;
+  margin: 47px auto 60px;
+  padding: 9px 35px 11px 33px;
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-2 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-2 {
+    width: 340px;
+  }
+}@font-face {
+  font-family: 'HumanSans-Black';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/HumanSans-Black.otf);
+}@font-face {
+  font-family: 'HumanSans-Medium';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/HumanSans-Medium.otf);
+}@font-face {
+  font-family: 'HumanSans-Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/HumanSans-Regular.otf);
+}
