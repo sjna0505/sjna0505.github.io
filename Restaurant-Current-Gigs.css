@@ -1,0 +1,85 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 757px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 545px;
+  height: 465px;
+  margin: 93px auto 0 0;
+}
+
+.u-section-1 .u-image-2 {
+  width: 570px;
+  height: 244px;
+  margin: -389px 25px 0 auto;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 199px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-2 {
+    margin-top: -378px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 740px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 461px;
+    margin-top: 50px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 540px;
+    height: 231px;
+    margin-top: -265px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 70px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 483px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 290px;
+    margin-top: -36px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 340px;
+    height: 145px;
+    margin-top: -34px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -75px;
+  }
+}@font-face {
+  font-family: 'HumanSans-Medium';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/HumanSans-Medium.otf);
+}@font-face {
+  font-family: 'HumanSans-Black';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/HumanSans-Black.otf);
+}@font-face {
+  font-family: 'HumanSans-Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/HumanSans-Regular.otf);
+}
