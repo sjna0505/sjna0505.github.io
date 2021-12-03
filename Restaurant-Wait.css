@@ -1,0 +1,24 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 505px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 269px;
+  height: 155px;
+  margin: 141px auto 60px;
+}@font-face {
+  font-family: 'HumanSans-Medium';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/HumanSans-Medium.otf);
+}@font-face {
+  font-family: 'HumanSans-Black';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/HumanSans-Black.otf);
+}@font-face {
+  font-family: 'HumanSans-Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/HumanSans-Regular.otf);
+}
