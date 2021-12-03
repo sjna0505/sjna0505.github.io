@@ -1,46 +1,54 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 567px;
+  min-height: 50vw;
+}
+
+.u-section-1 .u-image-1 {
+  width: 206px;
+  height: 206px;
+  margin: -83px auto 0 160px;
 }
 
 .u-section-1 .u-text-1 {
   font-family: HumanSans-Black;
   text-align: left;
-  margin: 137px auto 0;
+  margin: 14px auto 0;
 }
 
 .u-section-1 .u-text-2 {
+  font-size: 1rem;
+  font-weight: 400;
   margin: 24px auto 0;
 }
 
-.u-section-1 .u-image-1 {
+.u-section-1 .u-image-2 {
   width: 80px;
   height: 80px;
   transition-duration: 0.5s;
   margin: 22px auto 0 512px;
 }
 
-.u-section-1 .u-image-2 {
+.u-section-1 .u-image-3 {
   width: 79px;
   height: 79px;
   transition-duration: 0.5s;
   margin: -79px auto 0 306px;
 }
 
-.u-section-1 .u-image-3 {
+.u-section-1 .u-image-4 {
   width: 81px;
   height: 81px;
   transition-duration: 0.5s;
   margin: -79px 337px 0 auto;
 }
 
-.u-section-1 .u-image-4 {
+.u-section-1 .u-image-5 {
   width: 81px;
   height: 81px;
   transition-duration: 0.5s;
   margin: -81px 442px 0 auto;
 }
 
-.u-section-1 .u-image-5 {
+.u-section-1 .u-image-6 {
   width: 79px;
   height: 79px;
   transition-duration: 0.5s;
@@ -54,32 +62,59 @@
   font-weight: 700;
   font-family: HumanSans-Regular;
   text-transform: none;
-  margin: 33px auto 60px;
+  margin: 33px auto 0;
+}
+
+.u-section-1 .u-image-7 {
+  width: 205px;
+  height: 205px;
+  margin: 1px 213px 49px auto;
 }
 
 @media (max-width: 1199px) {
-  .u-section-1 .u-image-2 {
+  .u-section-1 .u-image-1 {
+    margin-top: -82px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 13px;
+  }
+
+  .u-section-1 .u-image-3 {
     margin-top: -78px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-image-1 {
+    margin-top: -57px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -12px;
+  }
+
+  .u-section-1 .u-image-2 {
     margin-left: 460px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-image-1 {
-    margin-left: 260px;
+    margin-top: -20px;
+    margin-left: 134px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -49px;
   }
 
   .u-section-1 .u-image-2 {
-    margin-left: 261px;
+    margin-left: 260px;
   }
 
   .u-section-1 .u-image-3 {
-    margin-right: 259px;
+    margin-left: 261px;
   }
 
   .u-section-1 .u-image-4 {
@@ -87,22 +122,30 @@
   }
 
   .u-section-1 .u-image-5 {
+    margin-right: 259px;
+  }
+
+  .u-section-1 .u-image-6 {
     margin-left: 261px;
+  }
+
+  .u-section-1 .u-image-7 {
+    margin-right: 135px;
   }
 }
 
-.u-section-1 .u-image-5 {
+.u-section-1 .u-image-6 {
   transition-property: fill, color, background-image, stroke-width, border-style, border-width, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-size, background-position !important;
 }
 
-.u-section-1 .u-image-5:hover {
+.u-section-1 .u-image-6:hover {
   opacity: 0.5 !important;
   stroke-width: 0px !important;
   border-style: solid !important;
   border-width: 0px !important;
 }
 
-.u-section-1 .u-image-5 {
+.u-section-1 .u-image-6 {
   stroke: transparent !important;
   border-color: transparent !important;
   stroke-width: 0 !important;
@@ -110,11 +153,19 @@
   border-width: 0px !important;
 }
 
-.u-section-1 .u-image-1 {
+.u-section-1 .u-image-2 {
   transition-property: fill, color, background-image, stroke-width, border-style, border-width, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-size, background-position !important;
 }
 
-.u-section-1 .u-image-1:hover {
+.u-section-1 .u-image-2:hover {
+  opacity: 0.5 !important;
+}
+
+.u-section-1 .u-image-5 {
+  transition-property: fill, color, background-image, stroke-width, border-style, border-width, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-size, background-position !important;
+}
+
+.u-section-1 .u-image-5:hover {
   opacity: 0.5 !important;
 }
 
@@ -131,14 +182,6 @@
 }
 
 .u-section-1 .u-image-3:hover {
-  opacity: 0.5 !important;
-}
-
-.u-section-1 .u-image-2 {
-  transition-property: fill, color, background-image, stroke-width, border-style, border-width, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-size, background-position !important;
-}
-
-.u-section-1 .u-image-2:hover {
   opacity: 0.5 !important;
 }@font-face {
   font-family: 'HumanSans-Black';
